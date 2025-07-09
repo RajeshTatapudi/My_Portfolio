@@ -14,8 +14,8 @@ const projects = [
     title: "Portfolio Website",
     tech: "React",
     description: "Modern portfolio website with animations, routing, and styled with Tailwind CSS.",
-    github: "https://github.com/RajeshTatapudi/portfolio",
-    demo: "https://your-portfolio-link.com",
+    github: "https://github.com/RajeshTatapudi/My_Portfolio",
+    demo: "https://my-portfolio-beryl-chi-85.vercel.app/",
   },
   // {
   //   title: "Task Manager",
