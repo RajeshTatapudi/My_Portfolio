@@ -20,12 +20,12 @@ const Contact = () => {
         "Nq7b0jtnBW4IP_Ltd"
       )
       .then(() => {
-        toast.success("✅ Message sent successfully!");
+        toast.success("Message sent successfully!");
         form.current.reset();
         setLoading(false);
       })
       .catch((error) => {
-        toast.error("❌ Failed to send message. Try again.");
+        toast.error("Failed to send message. Try again.");
         console.error("EmailJS error:", error);
         setLoading(false);
       });
