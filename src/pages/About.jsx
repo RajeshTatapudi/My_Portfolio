@@ -1,4 +1,5 @@
 import React from "react";
+import { SiOpenai } from "react-icons/si";
 import {
   FaPython,
   FaAws,
@@ -6,6 +7,7 @@ import {
   FaReact,
   FaNodeJs,
   FaLeaf,
+  FaCertificate
 } from "react-icons/fa";
 import { SiMongodb, SiMysql, SiAngular, SiExpress } from "react-icons/si";
 import { motion } from "framer-motion";
@@ -24,6 +26,7 @@ const certifications = [
   { icon: <FaAws />, label: "AWS Cloud Practitioner" },
   { icon: <SiMysql />, label: "MySQL Database Management" },
   { icon: <SiMongodb />, label: "MongoDB Certified Developer" },
+  { icon: <SiOpenai />, label: "Prompt Engineering" },
 ];
 
 const About = () => {

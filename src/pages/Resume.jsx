@@ -63,6 +63,7 @@ const Resume = () => {
         {/* Skills */}
         <Section title="Skills" icon={<FaCode />}>
           <Entry title="Technical Skills" description="Python, JavaScript, Node.js, React.js, Angular, MySQL, MongoDB, HTML, CSS, AWS, Git, GitHub" />
+          <Entry title="OpenAI" description="Prompt Engineering Fundamentals" />
           <Entry title="AI & Data Skills" description="Supervised Learning, Data Cleaning, Data Visualization, Basic Deep Learning" />
           <Entry title="Soft Skills" description="Leadership, Team Collaboration, Communication, Creativity, Problem Solving" />
         </Section>

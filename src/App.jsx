@@ -6,6 +6,7 @@ import About from "./pages/About";
 import Achievements from "./pages/Achievements";
 import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -27,6 +28,7 @@ function App() {
           <section id="projects"><Achievements /></section>
           <section id="resume"><Resume /></section>
           <section id="contact"><Contact /></section>
+          <Footer />
         </div>
       )}
     </div>
