@@ -7,8 +7,8 @@ const projects = [
     title: "StockTrackr Website",
     tech: "React",
     description: "Smart-website for Managing Stocks with Dynamic Watchlist, and responsive UI",
-    github: "https://github.com/RajeshTatapudi/StockTrackr",
-    demo: "https://stocktrackrweb.netlify.app",
+    github: "https://github.com/RajeshTatapudi/smart-stock-tracker",
+    demo: "https://smart-stock-tracker-v5ft.vercel.app/",
   },
   {
     title: "Portfolio Website",
