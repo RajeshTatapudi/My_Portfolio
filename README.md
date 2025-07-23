@@ -29,7 +29,7 @@ This is my personal developer portfolio built using **React**, **TailwindCSS**, 
 
 ## 📷 Live Demo
 
-🌐 [Visit My Portfolio](https://your-vercel-url.vercel.app)
+🌐 [Visit My Portfolio](https://my-portfolio-beryl-chi-85.vercel.app/)
 
 ---
 
